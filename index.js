@@ -3,7 +3,7 @@ window.addEventListener("load", function(){
         const template= `
         <div class="sweet-alert ">
         
-        <p class="sweet-text">Yêu Yêu</p>
+        <p class="sweet-text">Love You</p>
          <i class="fa-solid fa-heart sweet-icon"></i>
     </div>
         `;
